@@ -1,0 +1,4 @@
+#Sun Apr 28 14:05:22 CEST 2019
+base.0=C\:\\Users\\Admin\\Desktop\\business\\TinderThings\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
